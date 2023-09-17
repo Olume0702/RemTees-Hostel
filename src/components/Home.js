@@ -12,6 +12,7 @@ const Home = () => {
         <div className="flex h-full items-center justify-center">
           <div className="text-white">
             <h2 className="mb-12 text-5xl md:text-5xl lg:text-7xl  xl:text-7xl 2xl:text-8xl font-semibold">REMTEES HOSTEL</h2>
+            
             <h4 className="my-6 text-xl md:text-2xl lg:text-3xl xl:text-4xl 2xl:text-5xl font-semibold animate-pulse italic">a place of comfort</h4>
             <a href="#contact">
               <button
